@@ -1,0 +1,1 @@
+# Bayesian-generalized-linear-model-for-simulating-bacterial-inactivation-growth
